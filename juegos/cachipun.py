@@ -23,3 +23,4 @@ def cachipun():
         print("Perdiste")
     elif n==3 and a=="Piedra":
         print("Ganaste")
+    pass
